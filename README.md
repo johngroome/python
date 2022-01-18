@@ -1,2 +1,2 @@
-# Python
-My journey with learning Python
+# Flashy in Python
+My ongoing journey learning Python
